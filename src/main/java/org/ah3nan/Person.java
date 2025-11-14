@@ -1,4 +1,4 @@
-package com.digitalmerce.app;
+package org.ah3nan;
 
 import io.avaje.jsonb.Json;
 import lombok.Getter;
